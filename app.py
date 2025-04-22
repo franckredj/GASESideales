@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("image1.png")
 # Constante de los gases ideales
 R = 0.0821  # atm·L/mol·K
 
